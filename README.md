@@ -43,9 +43,8 @@ Hello there! A passionate Full-Stack Developer building scalable, open-source so
 -   **Email:** [mohammed.essam.10101@gmail.com](mailto:mohammed.essam.10101@gmail.com)
 <!-- -   **My Resume:** [Link to Live CV](https://MohammedEssam10101.github.io/CV/Mohamed%20Essam%20Ibrahim%20-%20CV.html) -->
 <!-- ⚠️ IMPORTANT: Update this link after hosting your CV on GitHub Pages -->
-
----
 <!--
+---
 <p align="center">
   <a href="https://github.com/MohammedEssam10101">
     <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MohammedEssam10101&layout=compact&theme=radical" />
